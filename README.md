@@ -1,10 +1,10 @@
 # ComfyUI-KLingAI-API
 
-This is a custom node for ComfyUI that allows you to use the KLing AI API directly in ComfyUI. KLing AI API is based on top of [KLing AI](https://klingai.kuaishou.com/). For more information, see [KLing AI API Documentation](https://docs.qingque.cn/d/home/eZQClW07IFEuX1csc-VejdY2M?identityId=1oEER8VjdS8).
+This is a custom node for ComfyUI that allows you to use the KLing AI API directly in ComfyUI. KLing AI API is based on top of [KLing AI](https://klingai.com/). For more information, see [KLing AI API Documentation](https://docs.qingque.cn/d/home/eZQAmVjsdCh45-NZ2-_XyYRmG?identityId=2Cn18n4EIHT).
 
 
 ## Requirements
-Before using this node, you need to have [a KLing AI API key](https://docs.qingque.cn/d/home/eZQCR1cjLJ5SqrV-AfCve0rYn?identityId=1oEER8VjdS8). 
+Before using this node, you need to have [a KLing AI API key](https://docs.qingque.cn/d/home/eZQA6m4cRjTB1BBiE5eJ4lyvL?identityId=2Cn18n4EIHT). 
 
 ## Installation
 
@@ -59,4 +59,4 @@ This node is used to display the try-on effect.
 
 ## Pricing
 
-For pricing, follow [KLing AI Pricing](https://klingai.kuaishou.com/dev-center).
+For pricing, follow [KLing AI Pricing](https://klingai.com/dev-center).
